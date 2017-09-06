@@ -4,6 +4,7 @@
 
 而收藏，当然是为了在可能需要的时候能够迅速果断地找到一个合适我们项目的轮子。
 
+
 | **分类** | **详细** | **框架名称** | **简介** | **Star 数** | **是否维护** |
 | :----: | :----: | :----: | :----: | :----: | :----: |
 | UI     | 刷新 | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | stormzhang 推荐的最近比较火的下拉刷新框架 | 4.5k | 是 |
@@ -65,6 +66,7 @@
 | 动画 || [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) || 7.9k | 是 |
 | 动画 || [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | RecyclerView条目动画 | 6.5k | 是 |
 | 动画 || [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) || 3k | 1月 |
+| 异步 || [RxJava](https://github.com/ReactiveX/RxJava) || 27k | 是 |
 | 异步 || [RxAndroid](https://github.com/ReactiveX/RxAndroid) || 13.1k | 7月 |
 | 异步 || [agera](https://github.com/google/agera) || 6.6k | 5月 |
 | 数据库 || [realm-java](https://github.com/realm/realm-java) || 8.1k | 是 |
@@ -97,8 +99,8 @@
 | 依赖注入 || [dagger2](https://github.com/google/dagger) || 7.9k | 是 |
 | 权限 || [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) || 5k | 是 |
 | 权限 || [RxPermissions](https://github.com/tbruyelle/RxPermissions) || 4.1k | 3月 |
-| 响应式 || [RxBinding](https://github.com/JakeWharton/RxBinding) || 5.9k | 2月 |
-| 响应式 || [otto](https://github.com/square/otto) | 事件总线框架 | 4.6k | 2月 |
+| 响应式 || [RxBinding](https://github.com/JakeWharton/RxBinding) || 5.9k | 2月 |
+| 响应式 || [otto](https://github.com/square/otto) | 事件总线框架 | 4.6k | 2月 |
 | hybrid || [JsBridge](https://github.com/lzyzsd/JsBridge) || 3.3k | 11月 |
 | hybrid|| [VasSonic](https://github.com/Tencent/VasSonic) | 轻量级的高性能的hybrid框架 | 4.7k | 是 |
 | 崩溃 || [acra](https://github.com/ACRA/acra) | 应用崩溃报告 | 3.8k | 2月 |
@@ -122,5 +124,7 @@
 | 用例 || [u2020](https://github.com/JakeWharton/u2020) || 4.9k | 是 |
 | 用例 || [androidmvp](https://github.com/antoniolg/androidmvp) || 4.3k | 9月 |
 | 用例 || [android-testing](https://github.com/googlesamples/android-testing) || 4.3k | 是 |
+| 设计模式 || [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | java设计模式指南(英文) | 23k | 是 |
+| 面试 || [interviews](https://github.com/kdn251/interviews) | 软件工程技术面试个人指南 | 11k | 是 |
 
 注：『star 数』和『维护时间』是基于：2017-07-28 GitHub 项目数据进行参考（部分新增的项目除外）
