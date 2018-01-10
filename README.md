@@ -1,3 +1,4 @@
+# Android 优秀开源项目汇总
 
 收集总结 Android 项目中值得推荐的优秀开源项目，将收集到的开源项目分类汇总到表格中，并在后面对项目进行介绍。
 
@@ -192,8 +193,6 @@
 2. 『最近更新』为该项目在 GitHub 中距离最近一次更新的时间；
 3. 『star 数』和『最近更新』是基于：2018-01-10 GitHub 项目数据进行参考。
 
-| UI | 刷新 | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | Android 智能下拉刷新框架 | 8.8k | 4天 |
-| 补充 | 开发工具 | [lantern](https://github.com/getlantern/lantern) | 翻墙利器 | 31k | 6月 |
 ----
 ## 详情介绍
 
