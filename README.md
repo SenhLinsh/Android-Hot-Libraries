@@ -10,7 +10,7 @@
 
 | **分类** | **二级分类** | **框架名称** | **简介** | **Star 数** | **最近<br/>更新** |
 | :----: | :----: | :----: | :----: | :----: | :----: |
-| UI | 刷新 | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 智能下拉刷新框架 [>详细](#801101) | 9.2k | 1天 |
+| UI | 刷新 | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 智能下拉刷新框架[[详细]](#scwang90--SmartRefreshLayout) | 9.2k | 1天 |
 | UI | 刷新 | [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) | 比较早的一款下拉刷新框架 | 8.5k | 5年 |
 | UI | 刷新 | [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) | 下拉刷新框架 | 8.7k | 1年 |
 | UI | 刷新 | [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) | 众多优秀的下拉刷新汇总 | 2.0k | 1年 |
@@ -36,7 +36,7 @@
 | UI | 布局 | [flexbox-layout](https://github.com/google/flexbox-layout) | Android 弹性 / 流式布局 | 10k | 17天 |
 | UI | 布局 | [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) | 屏幕适配布局 | 5.8k | 7月 |
 | UI | 布局 | [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) | 流式布局 | 3.3k | 4月 |
-| UI | 布局 | [vlayout](https://github.com/alibaba/vlayout) | 整套布局方案和布局间的组件复用 [>详细](#801102) | 7.1k | 5天 |
+| UI | 布局 | [vlayout](https://github.com/alibaba/vlayout) | 整套布局方案和布局间的组件复用[[详细]](#alibaba--vlayout) | 7.1k | 5天 |
 | UI | 滑动删除 | [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | 滑动删除 | 9.4k | 6月 |
 | UI | 滚动 | [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | 监听可滚动 View 的滚动事件 | 8.4k | 1年 |
 | UI | 列表 | [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) | 功能强大的 RecyclerView | 6.3k | 1月 |
@@ -95,8 +95,8 @@
 | json | 解析 | [fastjson](https://github.com/alibaba/fastjson) | 阿里巴巴 Json 库 | 12k | 1天 |
 | 字体 | 框架 | [Calligraphy](https://github.com/chrisjenx/Calligraphy) | 自定义字体库 | 7.3k | 8月 |
 | 语言 | 汉字处理 | [HanLP](https://github.com/hankcs/HanLP) | 中文分词 、关键词提取等 | 5.5k | 5天 |
-| 性能 | 卡顿 | [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) | 非侵入式性能监控组件 [>详细](#801221) | 3.7k | 5月 |
-| 性能 | 卡顿 | [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) | UI 卡顿检测 [>详细](#801222) | 1.6k | 5月 |
+| 性能 | 卡顿 | [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) | 非侵入式性能监控组件[[详细]](#markzhai--AndroidPerformanceMonitor) | 3.7k | 5月 |
+| 性能 | 卡顿 | [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) | UI 卡顿检测[[详细]](#seiginonakama--BlockCanaryEx) | 1.6k | 5月 |
 | 性能 | 内存 | [leakcanary](https://github.com/square/leakcanary) | 检查内存泄漏工具 | 18k | 1月 |
 | 性能 | 生命周期 | [RxLifecycle](https://github.com/trello/RxLifecycle) | 使用 RxJava 管理生命周期 | 5.0k | 2月 |
 | 性能 | 缓存 | [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | 硬盘缓存工具 | 4.1k | 1年 |
@@ -198,33 +198,33 @@
 ---
 ## 详细介绍
 
-### <span id="801101">scwang90 / SmartRefreshLayout</span> 
+### scwang90 / SmartRefreshLayout
 
 下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的 Header 和 Footer。
 
 SmartRefreshLayout 是一个“聪明”或者“智能”的下拉刷新布局，由于它的“智能”，它不只是支持所有的 View，还支持多层嵌套的视图结构。它继承自 ViewGroup 而不是 FrameLayout 或 LinearLayout，提高了性能。 也吸取了现在流行的各种刷新布局的优点，包括谷歌官方的 SwipeRefreshLayout，其他第三方的 Ultra-Pull-To-Refresh、TwinklingRefreshLayout 。还集成了各种炫酷的 Header 和 Footer。
 
-项目地址：https://github.com/scwang90/SmartRefreshLayout
-博客地址：https://segmentfault.com/a/1190000010066071
+项目地址：https://github.com/scwang90/SmartRefreshLayout  
+博客地址：https://segmentfault.com/a/1190000010066071  
 
-#### <span id="801102">alibaba / vlayout</span> 
+### alibaba / vlayout
 
 VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
 
 通过定制化的LayoutManager，接管整个RecyclerView的布局逻辑；LayoutManager管理了一系列LayoutHelper，LayoutHelper负责具体布局逻辑实现的地方；每一个LayoutHelper负责页面某一个范围内的组件布局；不同的LayoutHelper可以做不同的布局逻辑，因此可以在一个RecyclerView页面里提供异构的布局结构，这就能比系统自带的LinearLayoutManager、aridLayoutManager等提供更加丰富的能力。同时支持扩展LayoutHelper来提供更多的布局能力。
 
-项目地址：https://github.com/alibaba/vlayout
+项目地址：https://github.com/alibaba/vlayout  
 
-#### <span id="801221">markzhai / AndroidPerformanceMonitor</span> 
+### markzhai / AndroidPerformanceMonitor
 
 AndroidPerformanceMonitor（也叫 BlockCanary）是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复。
 
 取名为BlockCanary则是为了向LeakCanary致敬，顺便本库的UI部分是从LeakCanary改来的，之后可能会做一些调整。
 
-项目地址：https://github.com/markzhai/AndroidPerformanceMonitor
-中文文档：https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md
+项目地址：https://github.com/markzhai/AndroidPerformanceMonitor  
+中文文档：https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md  
 
-#### <span id="801222">seiginonakama / BlockCanaryEx</span> 
+### seiginonakama / BlockCanaryEx
 
 记录主线程中执行的所有方法和它们的执行时间，当app卡顿时，将所有耗时方法直接展示给开发者，节省开发者定位卡顿问题的时间。 此项目基于 BlockCanary。
 
@@ -233,7 +233,7 @@ AndroidPerformanceMonitor（也叫 BlockCanary）是一个Android平台的一个
 * BlockCanaryEx添加了方法采样，知道主线程中所有方法的执行时间和执行次数;
 * 当应用卡顿时，BlockCanaryEx更关注app代码中，哪些方法耗时最多，重点记录和显示这些耗时方法；
 * 添加了gc采样，当应用卡顿时，我们可以知道卡顿时是否发生了gc，以及gc的时间；
-* 监控view性能，计算卡顿时，view的measure,layout,draw消耗的时间。
+* 监控view性能，计算卡顿时，view 的 measure、layout 和 draw 消耗的时间。
 
-项目地址：https://github.com/seiginonakama/BlockCanaryEx
+项目地址：https://github.com/seiginonakama/BlockCanaryEx  
 中文文档：https://github.com/seiginonakama/BlockCanaryEx/blob/master/README_ZH.md
