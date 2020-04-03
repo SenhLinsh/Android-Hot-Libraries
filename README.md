@@ -10,10 +10,12 @@
 
 | **分类** | **二级分类** | **框架名称** | **简介** | **Star 数** | **最近<br/>更新** |
 | :----: | :----: | :----: | :----: | :----: | :----: |
-| UI | 刷新 | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 智能下拉刷新框架[[详细]](#scwang90--smartrefreshlayout) | 16k | 11天 |
-| UI | 刷新 | [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) | 比较早的一款下拉刷新框架 | 8.7k | 6年 |
-| UI | 刷新 | [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) | 下拉刷新框架 | 9.5k | 2年 |
-| UI | 刷新 | [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) | 众多优秀的下拉刷新汇总 | 2.1k | 3年 |
+| UI | Loading | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 智能下拉刷新框架[[详细]](#scwang90--smartrefreshlayout) | 16k | 11天 |
+| UI | Loading | [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) | 比较早的一款下拉刷新框架 | 8.7k | 6年 |
+| UI | Loading | [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) | 下拉刷新框架 | 9.5k | 2年 |
+| UI | Loading | [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) | 众多优秀的下拉刷新汇总 | 2.1k | 3年 |
+| UI | Loading | [LoadSir](https://github.com/KingJA/LoadSir) | 加载反馈页管理框架 | 2.1k | 9天 |
+| UI | Loading | [LoadingView](https://github.com/ldoublem/LoadingView) | 简单的 Loading 控件 | 0k | 0天 |
 | UI | 图表 | [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | 统计图表库 | 30k | 12天 |
 | UI | 图表 | [hellocharts-android](https://github.com/lecho/hellocharts-android) | 统计图表库 | 6.9k | 2年 |
 | UI | 图表 | [smartTable](https://github.com/huangyanbin/smartTable) | 自动生成表格框架[[详细]](#huangyanbin--smarttable) | 3.9k | 1年 |
@@ -22,6 +24,7 @@
 | UI | 菜单 | [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) | 比较早的一款侧滑菜单 | 11k | 6年 |
 | UI | 菜单 | [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | 侧滑菜单 | 11k | 9天 |
 | UI | 菜单 | [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) | 类似QQ侧滑菜单 | 6.0k | 1年 |
+| UI | 菜单 | [BoomMenu](https://github.com/Nightonke/BoomMenu) | 酷炫的弹出式菜单 | 0k | 0天|
 | UI | 日历 | [CalendarView](https://github.com/huanghaibin-dev/CalendarView ) | 高度自定义、支持周视图的日历控件 | 6.3k | 7月 |
 | UI | 图片 | [PhotoView](https://github.com/chrisbanes/PhotoView) | 大图展示 | 17k | 20天 |
 | UI | 图片 | [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | 大图展示 | 6.0k | 19天 |
@@ -30,6 +33,7 @@
 | UI | 图片 | [android-gif-drawable](https://github.com/koral--/android-gif-drawable) | Gif 加载 | 8.1k | 3月 |
 | UI | 图片 | [Matisse](https://github.com/zhihu/Matisse) | 图片\视频选择库 | 11k | 54月|
 | UI | 文本 | [richeditor-android](https://github.com/wasabeef/richeditor-android) | 富文本编辑器 | 4.9k | 3年 |
+| UI | 文本 | [TextSurface](https://github.com/elevenetc/TextSurface) | 文本动画 | 0k | 0年 |
 | UI | 弹窗 | [material-dialogs](https://github.com/afollestad/material-dialogs) | 可定制化的 Dialog API | 17k | 5天 |
 | UI | 弹窗 | [Toasty](https://github.com/GrenderG/Toasty) | 定制不一样的 Toast | 5.7k | 11月 |
 | UI | 弹窗 | [DialogUtil](https://github.com/hss01248/DialogUtil) | Dialog 工具 | 0.9k | 8月 |
@@ -58,7 +62,8 @@
 | UI | 高斯模糊 | [BlurKit-Android](https://github.com/wonderkiln/BlurKit-Android) | 高斯模糊控件 | 3.1k | 1年 |
 | UI | 角标 | [android-viewbadger](https://github.com/jgilfelt/android-viewbadger) | 角标 / 徽章 | 3.1k | 7年 |
 | UI | 角标 | [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) | 徽章控件 | 2.4k | 1年 |
-| UI | Path | [android-pathview](https://github.com/geftimov/android-pathview ) | 绘制路径或 SVG，可设置动画 | 2.8k | 2年 |
+| UI | Path | [android-pathview](https://github.com/geftimov/android-pathview) | 绘制路径或 SVG，可设置动画 | 2.8k | 2年 |
+| UI | Path | [RichPath](https://github.com/tarek360/RichPath) | Android 路径绘制 | 0k | 0年 |
 | UI | 其他 | [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | 上拉面板 | 8.9k | 2年 |
 | UI | 其他 | [AppIntro](https://github.com/apl-devs/AppIntro) | 欢迎页 | 9.0k | 1月 |
 | UI | 其他 | [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | UI框架 | 7.1k | 2年 |
@@ -67,11 +72,14 @@
 | UI | 其他 | [InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager) | ViewPager | 5.5k | 1年 |
 | UI | 其他 | [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) | 酷炫的加载动画 | 3.9k | 2年 |
 | UI | 其他 | [QMUI_Android](https://github.com/QMUI/QMUI_Android) | 提高 UI 开发效率的 UI 库 | 10k | 19天|
-| UI | 其他 | [LoadSir](https://github.com/KingJA/LoadSir) | 加载反馈页管理框架 | 2.1k | 9天 |
+| UI | 其他 | [folding-cell-android](https://github.com/Ramotion/folding-cell-android) | 折叠控件 | 0k | 0天|
 | 网络 | 框架 | [retrofit](https://github.com/square/retrofit) | 网络框架 | 35k | 5天 |
 | 网络 | 框架 | [okhttp](https://github.com/square/okhttp) | 网络框架 | 36k | 1天 |
 | 网络 | 框架 | [volley](https://github.com/google/volley) | 网络框架 | 2.7k | 20天 |
+| 网络 | 框架 | [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) | WebSocket 框架 | 0k | 0天 |
 | 网络 | 文件下载 | [FileDownloader](https://github.com/lingochamp/FileDownloader) | 文件下载引擎 | 9.4k | 4月 |
+| 网络 | 文件下载 | [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) | 文件下载引擎 | 0k | 0月 |
+| 网络 | 文件下载 | [okdownload](https://github.com/lingochamp/okdownload) | 文件下载引擎 | 0k | 0月 |
 | 网络 | 进度监听 | [ProgressManager](https://github.com/JessYanCoding/ProgressManager) | okhttp 上传下载进度监听 | 2.3k | 1年 |
 | 图片 | 框架 | [glide](https://github.com/bumptech/glide) | 图片框架 | 29k | 5天 |
 | 图片 | 框架 | [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | 图片框架 | 17k | 10月 |
@@ -90,6 +98,8 @@
 | 动画 | AE | [lottie-android](https://github.com/airbnb/lottie-android) | 展示 AE 工具所作动画的框架 | 28k | 15天 |
 | 动画 | 转场 | [Material-Animations](https://github.com/lgvalle/Material-Animations) | 安卓转场动画演示 | 13k | 2年 |
 | 动画 | View | [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | 安卓视图动画合集 | 11k | 9月 |
+| 动画 | View | [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | 安卓动画合集 | 0k | 0月 |
+| 动画 | Loading | [Android-SpinKit](https://github.com/ybq/Android-SpinKit) | 安卓 Loading 动画 | 0k | 0月 |
 | 动画 | 多种 | [animate](https://github.com/hitherejoe/animate) | 多种动画效果 | 3.1k | 4年 |
 | 动画 | 列表 | [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | RecyclerView 条目动画 | 9.9k | 8天 |
 | 动画 | 列表 | [spruce-android](https://github.com/willowtreeapps/spruce-android) | 列表视图展现动画 | 3.3k | 1月 |
@@ -104,7 +114,10 @@
 | 文件 | 选择器 | [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker) | 图片 / 文件选择器 | 2.0k | 11月 |
 | json | 解析 | [gson](https://github.com/google/gson) | 谷歌官方 Json 库 | 17k | 15天 |
 | json | 解析 | [fastjson](https://github.com/alibaba/fastjson) | 阿里巴巴 Json 库 | 21k | 2天 |
+| git | git | [jgit](https://github.com/eclipse/jgit) | git 的 java 使用版本 | 21k | 2天 |
 | 字体 | 框架 | [Calligraphy](https://github.com/chrisjenx/Calligraphy) | 自定义字体库 | 8.5k | 1年 |
+| 换肤 | 框架 | [Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader) | 换肤框架 | 0k | 0年 |
+| 换肤 | 框架 | [Android-skin-support](https://github.com/ximsfei/Android-skin-support) | 换肤框架 | 0k | 0年 |
 | 语言 | 汉字处理 | [HanLP](https://github.com/hankcs/HanLP) | 中文分词 、关键词提取等 | 18k | 1月 |
 | AI | 深度学习 | [TensorFlow-android](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) | TensorFlow Android Demo | 142k | 1天 |
 | 性能 | 卡顿 | [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) | 非侵入式性能监控组件[[详细]](#markzhai--androidperformancemonitor) | 5.5k | 2年 |
@@ -112,6 +125,7 @@
 | 性能 | 卡顿 | [AndroidDevMetrics](https://github.com/frogermcs/AndroidDevMetrics) | 性能检测[[详细]](#frogermcs--androiddevmetrics) | 1.5k | 10月 |
 | 性能 | 内存 | [leakcanary](https://github.com/square/leakcanary) | 检查内存泄漏工具 | 24k | 1天 |
 | 性能 | 检测 | [Emmagee](https://github.com/NetEase/Emmagee) | Android App 性能检测工具 | 2.2k | 2年 |
+| 性能 | 检测 | [matrix](https://github.com/Tencent/matrix) | 微信研发的应用性能接入框架 | 0k | 0年 |
 | 性能 | 生命周期 | [RxLifecycle](https://github.com/trello/RxLifecycle) | 使用 RxJava 管理生命周期 | 7.3k | 5月 |
 | 性能 | 缓存 | [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | 硬盘缓存工具 | 5.3k | 3年 |
 | 性能 | UI框架 | [litho](https://github.com/facebook/litho) | 高性能安卓 UI 的构建框架 | 6.6k | 1天 |
@@ -122,7 +136,10 @@
 | 插件化 | 框架 | [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) | Apk动态加载框架 | 5.8k | 2年 |
 | 插件化 | 框架 | [atlas](https://github.com/alibaba/atlas) | 阿里插件化框架 | 7.5k | 8月 |
 | 插件化 | 框架 | [Small](https://github.com/wequick/Small) | 插件化框架 | 4.9k | 1年 |
-| 虚拟化 | 虚拟化 | [VirtualApp](https://github.com/asLody/VirtualApp ) | App虚拟化引擎 | 6.7k | 11天 |
+| 插件化 | 框架 | [RePlugin](https://github.com/Qihoo360/RePlugin) | 插件化方案 | 0k | 0年 |
+| 组件化 | 框架 | [atlas](https://github.com/alibaba/atlas) | 动态组件化框架 | 0k | 0年 |
+| 虚拟化 | 虚拟化 | [VirtualApp](https://github.com/asLody/VirtualApp) | App虚拟化引擎 | 6.7k | 11天 |
+| 虚拟化 | 虚拟化 | [VirtualXposed](https://github.com/android-hacker/VirtualXposed) | 非ROOT环境下运行Xposed模块的实现 | 0k | 0天 |
 | 工具 | 工具类 | [guava](https://github.com/google/guava) | 谷歌核心 Java 类库 | 36k | 1天 |
 | 工具 | 工具类 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 安卓开发者不得不收集的代码 | 27k | 3月 |
 | 工具 | 工具类 | [android-common](https://github.com/Trinea/android-common) | 不只是工具类的公共库 | 4.9k | 1月 |
@@ -148,6 +165,8 @@
 | 响应式 | 事件 | [otto](https://github.com/square/otto) | 事件总线框架 | 5.2k | 1年 |
 | hybrid | 框架 | [JsBridge](https://github.com/lzyzsd/JsBridge) | Android 与 JavaScript 互调桥梁 | 7.6k | 4月 |
 | hybrid | 框架 | [VasSonic](https://github.com/Tencent/VasSonic) | 轻量级高性能的 hybrid 框架 | 11k | 311月|
+| hook | 框架 | [epic](https://github.com/tiann/epic) | 运行时 AOP Hook 框架 | 0k | 0月|
+| hook | 框架 | [TaiChi](https://github.com/taichi-framework/TaiChi) | 非ROOT环境下运行Xposed模块的框架 | 0k | 0月|
 | 崩溃 | 报告 | [acra](https://github.com/ACRA/acra) | 崩溃信息收集框架 | 5.2k | 2月 |
 | 崩溃 | 处理 | [CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash) | 崩溃处理 | 3.0k | 27天 |
 | 崩溃 | 预防 | [NullAway](https://github.com/uber/NullAway) | 检测 NullPointerExceptions | 2.7k | 27天 |
@@ -166,6 +185,7 @@
 | 调试 | 数据库 | [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) | Android 数据库调试工具 | 7.0k | 12天 |
 | 调试 | 方法 | [hugo](https://github.com/JakeWharton/hugo) | 方法调试工具 | 7.3k | 4年 |
 | 调试 | UI | [UETool](https://github.com/eleme/UETool) | UE调试工具 | 2.8k | 21天 |
+| 调试 | 工具 | [pandora](https://github.com/whataa/pandora) | 调试工具箱 | 0k | 0天 |
 | 反编译 | 工具 | [Apktool](https://github.com/iBotPeaches/Apktool) | 反编译 APK 工具 | 9.7k | 1月 |
 | 反编译 | 工具 | [android-classyshark](https://github.com/google/android-classyshark) | APK 分析利器 | 6.2k | 5月 |
 | Demo | Rxjava | [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) | 学习 Android 中 Rxjava | 7.2k | 2年 |
@@ -179,22 +199,31 @@
 | APP | 播放器 | [ExoPlayer](https://github.com/google/ExoPlayer) | 谷歌出品可扩展媒体播放器 | 15k | 28天 |
 | APP | 播放器 | [Timber](https://github.com/naman14/Timber) | 音乐播放器 | 6.1k | 1年 |
 | APP | 播放器 | [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) | 开源音乐播放器 | 2.3k | 3年 |
+| APP | 相机 | [cameraview](https://github.com/google/cameraview) | 安卓相机 | 0k | 0年 |
+| APP | 相机 | [camera-samples](https://github.com/android/camera-samples) | 安卓相机 API 使用 Demo | 0k | 0年 |
+| APP | 相机 | [UVCCamera](https://github.com/saki4510t/UVCCamera) | 安卓 UVC 相机 | 0k | 0年 |
 | APP | 新闻 | [AndroidFire](https://github.com/jaydenxiao2016/AndroidFire) | 新闻阅读 App 框架 | 2.4k | 7月 |
 | APP | 新闻 | [GeekNews](https://github.com/codeestX/GeekNews) | 涵盖最常用主流框架的阅读应用 | 3.5k | 1年 |
+| APP | 翻译 | [TranslateApp](https://github.com/maoruibin/TranslateApp) | 咕咚翻译 APP | 3.5k | 1年 |
 | APP | MVP | [MvpApp](https://github.com/Rukey7/MvpApp) | MVP 架构学习 App | 2.3k | 2年 |
 | APP | 教育 | [santa-tracker-android](https://github.com/google/santa-tracker-android) | 谷歌开源的儿童教育和娱乐 App | 2.0k | 8月 |
 | APP | 壁纸 | [muzei](https://github.com/romannurik/muzei) | 定时更换桌面精美壁纸 App | 4.0k | 10天 |
 | APP | 安全 | [haven](https://github.com/guardianproject/haven) | 利用设备传感器进行监控和保护 | 5.8k | 1月 |
+| APP | 工具 | [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) | Android手机抓包软件 | 0k | 0月 |
 | 面试 | 指南 | [interviews](https://github.com/kdn251/interviews) | 软件工程技术面试个人指南 | 43k | 5月 |
 | 面试 | 题库 | [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) | 国内一线互联网公司内部面试题库 | 7.7k | 7天 |
 | 学习 | 汇总 | [LearningNotes](https://github.com/francistao/LearningNotes) | 学习笔记 | 12k | 2年 |
 | 学习 | 汇总 | [AndroidNote](https://github.com/GcsSloop/AndroidNote) | GcsSloop 个人学习笔记 | 7.7k | 10月 |
 | 学习 | 汇总 | [Android_Data](https://github.com/Freelander/Android_Data) | Android 学习资料收集 | 8.2k | 2年 |
+| 学习 | 汇总 | [AdvancedAndroid](https://github.com/SusionSuc/AdvancedAndroid) | 一系列 Android 进阶文章 | 0k | 0年 |
 | 学习 | 翻译 | [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) | 定期翻译国外安卓优质文章 | 10k | 26月|
 | 学习 | 源码分析 | [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis) | Android 开源项目源码解析 | 6.6k | 11月 |
+| 学习 | 动画 | [Android-Animation-Set](https://github.com/OCNYang/Android-Animation-Set) | Android 所有动画系列详尽教程 | 0k | 0月 |
+| 学习 | 设计 | [material-design-data](https://github.com/Luosunce/material-design-data) | Material Design 学习资料 | 0k | 0月 |
 | 学习 | RxJava | [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) | RxJava 学习资源 | 4.8k | 3年 |
 | 学习 | 正则 | [learn-regex](https://github.com/zeeshanu/learn-regex) | 轻松学习正则 | 34k | 7天 |
 | 学习 | 算法 | [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) | 学习数据结构和算法、刷 LeetCode | 7.2k | 5月 |
+| 学习 | 算法 | [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 交互式算法学习 | 0k | 0月 |
 | 学习 | ADB | [awesome-adb](https://github.com/mzlogin/awesome-adb) | ADB 用法大全 | 6.9k | 7月 |
 | 其他 | 大全 | [Android](https://github.com/open-android/Android) | GitHub 上最火的 Android 开源项目 | 9.3k | 2年 |
 | 其他 | 大全 | [awesome-java](https://github.com/akullpp/awesome-java) | Java框架、库与软件合集 | 24k | 3天 |
@@ -203,13 +232,24 @@
 | 其他 | 大全 | [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) | Material Design 资源合集 | 5.9k | 4年 |
 | 其他 | 大全 | [AndroidLibs](https://github.com/XXApple/AndroidLibs) | Android 开源代码大全 | 6.3k | 3月 |
 | 其他 | 大全 | [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) | 收集常用的 Android 代码 | 2.4k | 3月 |
+| 其他 | 大全 | [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) | Android 开源项目及库总结 | 2.4k | 3月 |
 | 其他 | 大全 | [android-open-project](https://github.com/Trinea/android-open-project) | Android 开源项目分类汇总 | 30k | 1月 |
 | 其他 | 大全 | [android-architecture](https://github.com/googlesamples/android-architecture) | 谷歌关于架构的示例合集 | 36k | 1月 |
+| 其他 | 大全 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 学习+面试指南 | 0k | 0月 |
+| 其他 | 大全 | [advanced-java](https://github.com/doocs/advanced-java) | Java 进阶知识完全扫盲 | 0k | 0月 |
 | 其他 | 交流 | [android-discuss](https://github.com/android-cn/android-discuss) | Android 问题交流讨论坛 | 3.9k | 4年 |
+| 其他 | AS插件 | [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) | AS 翻译插件 | 0k | 0年 |
+| 其他 | AS插件 | [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | AS Wifi ADB 插件 | 0k | 0年 |
 | 补充 | 开发工具 | [PocketHub](https://github.com/pockethub/PocketHub) | Android 版 Github | 9.5k | 4月 |
 | 补充 | 开发工具 | [ActivityTracker](https://github.com/fashare2015/ActivityTracker) | 查看当前栈顶 Activity | 0.6k | 1年 |
-| 补充 | 开发工具 | [lantern](https://github.com/getlantern/lantern) | 翻墙利器 | 2.2k |11天月 |
+| 补充 | 开发工具 | [lantern](https://github.com/getlantern/lantern) | 翻墙利器 | 2.2k |11月 |
+| 补充 | 开发工具 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 翻墙利器 | 0k |0月 |
 | 补充 | 开发工具 | [battery-historian](https://github.com/google/battery-historian) | 电池耗电情况分析工具 | 4.5k | 2年 |
+| 补充 | 开发工具 | [scrcpy](https://github.com/Genymobile/scrcpy) | 显示和控制连接的安卓设备 | 0k | 0年 |
+| 补充 | 开发工具 | [XposedInstaller](https://github.com/rovo89/XposedInstaller) | Xposed 安装器 | 0k | 0年 |
+| 补充 | 开发工具 | [Magisk](https://github.com/topjohnwu/Magisk) | 系统修改 | 0k | 0年 |
+| 补充 | 开发工具 | [MagiskManager](https://github.com/topjohnwu/MagiskManager) | Magisk 管理器 | 0k | 0年 |
+| 补充 | 开发工具 | [EdXposed](https://github.com/ElderDrivers/EdXposed) | ART hook 框架 | 0k | 0年 |
 
 **注：**
 1. 『star 数』为该项目在 GitHub 中所获得的 start 数；
